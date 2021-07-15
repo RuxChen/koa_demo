@@ -1,0 +1,35 @@
+[2021-07-12T22:16:49.482] [ERROR] error - TypeError: Cannot read property 'AUTH_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\app.js:39:51
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-12T22:17:47.730] [ERROR] error - TypeError: Cannot read property 'AUTH_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\app.js:39:51
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-12T22:25:43.396] [ERROR] error - TypeError: Cannot read property 'AUTH_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\app.js:40:51
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-12T22:26:57.259] [ERROR] error - TypeError: Cannot read property 'AUTH_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\app.js:40:51
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-12T22:27:21.496] [ERROR] error - TypeError: Cannot read property 'AUTH_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\app.js:40:34
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)

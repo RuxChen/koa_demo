@@ -1,0 +1,76 @@
+[2021-07-11T21:25:36.187] [ERROR] error - TypeError: Cannot destructure property 'userName' of 'ctx.body' as it is undefined.
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:16:11
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\X\Desktop\koa2_demo\app.js:36:9
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\X\Desktop\koa2_demo\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:15)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:13)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at filter (C:\Users\X\Desktop\koa2_demo\node_modules\koa-json\index.js:25:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-11T21:26:30.913] [ERROR] error - TypeError: Cannot destructure property 'userName' of 'ctx.body' as it is undefined.
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:16:11
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\X\Desktop\koa2_demo\app.js:36:9
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\X\Desktop\koa2_demo\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:15)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:13)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at filter (C:\Users\X\Desktop\koa2_demo\node_modules\koa-json\index.js:25:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-11T21:26:39.560] [ERROR] error - TypeError: Cannot destructure property 'userName' of 'ctx.body' as it is undefined.
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:16:11
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\X\Desktop\koa2_demo\app.js:36:9
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\X\Desktop\koa2_demo\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:15)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:13)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at filter (C:\Users\X\Desktop\koa2_demo\node_modules\koa-json\index.js:25:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-11T21:43:03.680] [ERROR] error - TypeError: Cannot convert object to primitive value
+    at C:\Users\X\Desktop\koa2_demo\app.js:35:58
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\X\Desktop\koa2_demo\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:15)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:13)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at filter (C:\Users\X\Desktop\koa2_demo\node_modules\koa-json\index.js:25:12)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

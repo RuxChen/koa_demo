@@ -1,0 +1,43 @@
+[2021-07-14T22:23:27.486] [ERROR] error - TypeError: Cannot read property 'PARAM_ERROR' of undefined
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:76:42
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\X\Desktop\koa2_demo\node_modules\koa-jwt\lib\index.js:73:16)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-14T22:43:27.487] [ERROR] error - ReferenceError: action is not defined
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:90:3
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\X\Desktop\koa2_demo\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
+[2021-07-14T22:43:49.371] [ERROR] error - ReferenceError: userName is not defined
+    at C:\Users\X\Desktop\koa2_demo\routes\user.js:92:5
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (C:\Users\X\Desktop\koa2_demo\node_modules\koa-compose\index.js:42:32)
+    at jwt (C:\Users\X\Desktop\koa2_demo\node_modules\koa-jwt\lib\index.js:73:16)
+    at async C:\Users\X\Desktop\koa2_demo\app.js:37:3
+    at async serve (C:\Users\X\Desktop\koa2_demo\node_modules\koa-static\index.js:53:9)
+    at async logger (C:\Users\X\Desktop\koa2_demo\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (C:\Users\X\Desktop\koa2_demo\node_modules\koa-bodyparser\index.js:95:5)
